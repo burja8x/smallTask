@@ -1,0 +1,2 @@
+# smallTask
+Small programming task
